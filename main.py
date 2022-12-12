@@ -1,5 +1,4 @@
-'''This is a test module to demonstrate the git process'''
-
+"""This is a test module to demonstrate the git process"""
 
 def main() -> None:
     print('Hello World!')
@@ -7,5 +6,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-else;
+else:
     print('Not main module, exiting')
