@@ -5,7 +5,7 @@
 def main() -> None:
     print('Hello World!')
 
-
+# this is a comment
 if __name__ == "__main__":
     main()
 else:
